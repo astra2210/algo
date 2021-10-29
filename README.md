@@ -1,2 +1,2 @@
 # algo
-this is related to
+this is related to algorithms
