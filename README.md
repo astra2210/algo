@@ -1,2 +1,2 @@
 # algo
-this is related to algorithms present in
+this is related to algorithms present in Cormen
